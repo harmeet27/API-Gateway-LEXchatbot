@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Khushi/Downloads/cxf-bundle-jaxrs-2.7.0.jar/cxf-bundle-jaxrs-2.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Khushi/Downloads/jackson-jaxrs-json-provider-2.0.4.jar/jackson-jaxrs-json-provider-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Khushi/Downloads/com.fasterxml.jackson.core.jar/com.fasterxml.jackson.core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Khushi/Downloads/com.fasterxml.jackson.databind.jar/com.fasterxml.jackson.databind.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Khushi/Downloads/geronimo-javamail_1.4_spec-1.2.jar/geronimo-javamail_1.4_spec-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Khushi/Downloads/javax.ws.rs.jar/javax.ws.rs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Khushi/Downloads/javax.ws.rs-api-2.0-m10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Khushi/Downloads/wsdl4j-1.5.2.jar/wsdl4j-1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Khushi/Downloads/jackson-annotations-2.1.2.jar/jackson-annotations-2.1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
